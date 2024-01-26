@@ -1,0 +1,2 @@
+# test-del-curso
+x
